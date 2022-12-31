@@ -4,4 +4,6 @@
 	- Add if-else problem.
 	- Add stdin and stdout problem.
 ## 17-12-2022
-	- Add one problem form for loop. 
+	- Add one problem form for loop.
+## 31-12-2022
+	- Add one solution frm Java Exception Handling.
